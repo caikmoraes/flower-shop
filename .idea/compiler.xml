@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="supplier-service" />
         <module name="shop-service" />
+        <module name="config-server" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
   </component>
